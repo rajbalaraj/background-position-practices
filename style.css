@@ -1,0 +1,28 @@
+body {
+    background-image: url(images/images/pic-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    color: aliceblue;
+    font-size: 80px;
+}
+
+p {
+    text-align: center;
+    color: aliceblue;
+    font-size: large;
+}
+
+.btn {
+
+    display: inline-block;
+    padding: 15px 25px;
+    background-color: tomato;
+    border-radius: 5px;
+    text-decoration: none;
+    color: aliceblue;
+}
